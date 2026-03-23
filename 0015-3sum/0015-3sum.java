@@ -1,0 +1,44 @@
+class Solution {
+    public List<List<Integer>> threeSum(int[] nums) {
+       List<List<Integer>> ans=new ArrayList<>();
+        // Sort the array
+        Arrays.sort(nums);
+
+        // First loop for first element
+        for(int i=0;i<nums.length;i++){
+
+            // Skip duplicates for first element
+            if(i>0 && nums[i]==nums[i-1])
+                continue;
+
+            // Two pointers
+            int j=i+1;
+            int k=nums.length-1;
+            // Find pairs for current nums[i]
+            while(j<k){
+                int sum=nums[i]+nums[j]+nums[k];
+                if(sum<0){
+                    j++;
+                }
+                else if(sum>0){
+                    k--;
+                }else{
+                    List <Integer> temp=Arrays.asList(nums[i],nums[j],nums[k]);
+                    ans.add(temp);
+                    j++;
+                    k--;
+
+                    // Skip duplicates for j
+                    while(j<k && nums[j]==nums[j-1]){
+                        j++;
+                    }
+                    // Skip duplicates for k
+                    while(j<k && nums[k]==nums[k+1]){
+                        k--;
+                    }
+                }
+            }
+        }
+        return ans;
+    }
+}
