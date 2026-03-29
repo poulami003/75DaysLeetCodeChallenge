@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
