@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
