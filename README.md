@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
@@ -148,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/poulami003/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
